@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "flashmod",
+  "version": "${version}",
+  "name": "Flash Mod",
+  "description": "Speed Force: super velocidade, escalar paredes, raios coloridos e seletor de cor do raio.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.flashmod.FlashMod" ],
+    "client": [ "com.flashmod.client.FlashModClient" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

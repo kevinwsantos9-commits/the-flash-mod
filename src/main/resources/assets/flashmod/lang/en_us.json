@@ -1,0 +1,23 @@
+{
+  "key.categories.flashmod": "Flash Mod",
+  "key.flashmod.toggle": "Toggle Speed Force",
+  "key.flashmod.level": "Change speed level",
+  "key.flashmod.color": "Lightning color menu",
+
+  "hud.flashmod.energy": "Speed Force",
+  "hud.flashmod.level": "Level %s",
+  "msg.flashmod.level": "Speed level: %s",
+  "msg.flashmod.exhausted": "Out of Speed Force!",
+
+  "screen.flashmod.title": "Lightning Color",
+  "gui.flashmod.rainbow": "Rainbow",
+
+  "color.flashmod.yellow": "Classic Yellow",
+  "color.flashmod.red": "Red",
+  "color.flashmod.blue": "Blue",
+  "color.flashmod.purple": "Purple",
+  "color.flashmod.green": "Green",
+  "color.flashmod.white": "White",
+  "color.flashmod.pink": "Pink",
+  "color.flashmod.orange": "Orange"
+}

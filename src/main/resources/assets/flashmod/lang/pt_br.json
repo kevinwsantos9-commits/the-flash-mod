@@ -1,0 +1,23 @@
+{
+  "key.categories.flashmod": "Flash Mod",
+  "key.flashmod.toggle": "Ligar/desligar Força da Velocidade",
+  "key.flashmod.level": "Mudar nível de velocidade",
+  "key.flashmod.color": "Menu da cor do raio",
+
+  "hud.flashmod.energy": "Força da Velocidade",
+  "hud.flashmod.level": "Nível %s",
+  "msg.flashmod.level": "Nível de velocidade: %s",
+  "msg.flashmod.exhausted": "Sem energia da Força da Velocidade!",
+
+  "screen.flashmod.title": "Cor do Raio",
+  "gui.flashmod.rainbow": "Arco-íris",
+
+  "color.flashmod.yellow": "Amarelo Clássico",
+  "color.flashmod.red": "Vermelho",
+  "color.flashmod.blue": "Azul",
+  "color.flashmod.purple": "Roxo",
+  "color.flashmod.green": "Verde",
+  "color.flashmod.white": "Branco",
+  "color.flashmod.pink": "Rosa",
+  "color.flashmod.orange": "Laranja"
+}
